@@ -1,0 +1,158 @@
+Country,Happiness Rank,Happiness Score,Region,Continent
+Denmark,1,7.526,Northern Europe,Europe
+Switzerland,2,7.5089999999999995,Western Europe,Europe
+Iceland,3,7.501,Northern Europe,Europe
+Norway,4,7.497999999999999,Northern Europe,Europe
+Finland,5,7.412999999999999,Northern Europe,Europe
+Canada,6,7.404,Northern America,North America
+Netherlands,7,7.3389999999999995,Western Europe,Europe
+New Zealand,8,7.334,Australia and New Zealand,Oceania
+Australia,9,7.313,Australia and New Zealand,Oceania
+Sweden,10,7.291,Northern Europe,Europe
+Israel,11,7.267,Western Asia,Asia
+Austria,12,7.119,Western Europe,Europe
+United States,13,7.104,Northern America,North America
+Costa Rica,14,7.087000000000001,Central America,North America
+Puerto Rico,15,7.039,Caribbean,North America
+Germany,16,6.994,Western Europe,Europe
+Brazil,17,6.952000000000001,South America,South America
+Belgium,18,6.928999999999999,Western Europe,Europe
+Ireland,19,6.907,Northern Europe,Europe
+Luxembourg,20,6.871,Western Europe,Europe
+Mexico,21,6.778,Central America,North America
+Singapore,22,6.739,South-Eastern Asia,Asia
+United Kingdom,23,6.725,Northern Europe,Europe
+Chile,24,6.705,South America,South America
+Panama,25,6.7010000000000005,Central America,North America
+Argentina,26,6.65,South America,South America
+Czech Republic,27,6.596,Eastern Europe,Europe
+United Arab Emirates,28,6.5729999999999995,Western Asia,Asia
+Uruguay,29,6.545,South America,South America
+Malta,30,6.4879999999999995,Southern Europe,Europe
+Colombia,31,6.481,South America,South America
+France,32,6.478,Western Europe,Europe
+Thailand,33,6.474,South-Eastern Asia,Asia
+Saudi Arabia,34,6.379,Western Asia,Asia
+Taiwan,34,6.379,Eastern Asia,Asia
+Qatar,36,6.375,Western Asia,Asia
+Spain,37,6.361000000000001,Southern Europe,Europe
+Algeria,38,6.355,Northern Africa,Africa
+Guatemala,39,6.324,Central America,North America
+Suriname,40,6.269,South America,South America
+Kuwait,41,6.239,Western Asia,Asia
+Bahrain,42,6.218,Western Asia,Asia
+Trinidad and Tobago,43,6.167999999999999,Caribbean,North America
+Venezuela,44,6.084,South America,South America
+Slovakia,45,6.077999999999999,Eastern Europe,Europe
+El Salvador,46,6.068,Central America,North America
+Malaysia,47,6.005,South-Eastern Asia,Asia
+Nicaragua,48,5.992000000000001,Central America,North America
+Uzbekistan,49,5.987,Central Asia,Asia
+Italy,50,5.977,Southern Europe,Europe
+Ecuador,51,5.976,South America,South America
+Belize,52,5.956,Central America,North America
+Japan,53,5.921,Eastern Asia,Asia
+Kazakhstan,54,5.919,Central Asia,Asia
+Moldova,55,5.897,Eastern Europe,Europe
+Russia,56,5.856,Eastern Europe,Europe
+Poland,57,5.835,Eastern Europe,Europe
+South Korea,57,5.835,Eastern Asia,Asia
+Bolivia,59,5.822,South America,South America
+Lithuania,60,5.813,Northern Europe,Europe
+Belarus,61,5.8020000000000005,Eastern Europe,Europe
+North Cyprus,62,5.771,Western Asia,Asia
+Slovenia,63,5.768,Southern Europe,Europe
+Peru,64,5.742999999999999,South America,South America
+Turkmenistan,65,5.6579999999999995,Central Asia,Asia
+Mauritius,66,5.648,Eastern Africa,Africa
+Libya,67,5.615,Northern Africa,Africa
+Latvia,68,5.56,Northern Europe,Europe
+Cyprus,69,5.546,Western Asia,Asia
+Paraguay,70,5.537999999999999,South America,South America
+Romania,71,5.528,Eastern Europe,Europe
+Estonia,72,5.517,Northern Europe,Europe
+Jamaica,73,5.51,Caribbean,North America
+Croatia,74,5.4879999999999995,Southern Europe,Europe
+Hong Kong,75,5.457999999999999,Eastern Asia,Asia
+Somalia,76,5.44,Eastern Africa,Africa
+Kosovo,77,5.401,Southern Europe,Europe
+Turkey,78,5.388999999999999,Western Asia,Asia
+Indonesia,79,5.314,South-Eastern Asia,Asia
+Jordan,80,5.303,Western Asia,Asia
+Azerbaijan,81,5.291,Western Asia,Asia
+Philippines,82,5.279,South-Eastern Asia,Asia
+China,83,5.245,Eastern Asia,Asia
+Bhutan,84,5.196000000000001,Southern Asia,Asia
+Kyrgyzstan,85,5.185,Central Asia,Asia
+Serbia,86,5.1770000000000005,Southern Europe,Europe
+Bosnia and Herzegovina,87,5.162999999999999,Southern Europe,Europe
+Montenegro,88,5.1610000000000005,Southern Europe,Europe
+Dominican Republic,89,5.155,Caribbean,North America
+Morocco,90,5.151,Northern Africa,Africa
+Hungary,91,5.145,Eastern Europe,Europe
+Pakistan,92,5.132000000000001,Southern Asia,Asia
+Lebanon,93,5.129,Western Asia,Asia
+Portugal,94,5.122999999999999,Southern Europe,Europe
+Macedonia,95,5.121,Southern Europe,Europe
+Vietnam,96,5.061,South-Eastern Asia,Asia
+Somaliland Region,97,5.0569999999999995,Eastern Africa,Africa
+Tunisia,98,5.045,Northern Africa,Africa
+Greece,99,5.033,Southern Europe,Europe
+Tajikistan,100,4.996,Central Asia,Asia
+Mongolia,101,4.907,Eastern Asia,Asia
+Laos,102,4.876,South-Eastern Asia,Asia
+Nigeria,103,4.875,Western Africa,Africa
+Honduras,104,4.871,Central America,North America
+Iran,105,4.813,Southern Asia,Asia
+Zambia,106,4.795,Eastern Africa,Africa
+Nepal,107,4.793,Southern Asia,Asia
+Palestinian Territories,108,4.754,Western Asia,Asia
+Albania,109,4.655,Southern Europe,Europe
+Bangladesh,110,4.643,Southern Asia,Asia
+Sierra Leone,111,4.635,Western Africa,Africa
+Iraq,112,4.575,Western Asia,Asia
+Namibia,113,4.574,Southern Africa,Africa
+Cameroon,114,4.513,Middle Africa,Africa
+Ethiopia,115,4.508,Eastern Africa,Africa
+South Africa,116,4.459,Southern Africa,Africa
+Sri Lanka,117,4.415,Southern Asia,Asia
+India,118,4.404,Southern Asia,Asia
+Myanmar,119,4.395,South-Eastern Asia,Asia
+Egypt,120,4.362,Northern Africa,Africa
+Armenia,121,4.36,Western Asia,Asia
+Kenya,122,4.356,Eastern Africa,Africa
+Ukraine,123,4.324,Eastern Europe,Europe
+Ghana,124,4.276,Western Africa,Africa
+Congo (Kinshasa),125,4.272,Middle Africa,Africa
+Georgia,126,4.252,Western Asia,Asia
+Congo (Brazzaville),127,4.236000000000001,Middle Africa,Africa
+Senegal,128,4.218999999999999,Western Africa,Africa
+Bulgaria,129,4.217,Eastern Europe,Europe
+Mauritania,130,4.2010000000000005,Western Africa,Africa
+Zimbabwe,131,4.1930000000000005,Eastern Africa,Africa
+Malawi,132,4.156000000000001,Eastern Africa,Africa
+Sudan,133,4.138999999999999,Northern Africa,Africa
+Gabon,134,4.121,Middle Africa,Africa
+Mali,135,4.073,Western Africa,Africa
+Haiti,136,4.0280000000000005,Caribbean,North America
+Botswana,137,3.9739999999999998,Southern Africa,Africa
+Comoros,138,3.9560000000000004,Eastern Africa,Africa
+Ivory Coast,139,3.9160000000000004,Western Africa,Africa
+Cambodia,140,3.907,South-Eastern Asia,Asia
+Angola,141,3.866,Middle Africa,Africa
+Niger,142,3.8560000000000003,Western Africa,Africa
+South Sudan,143,3.832,Eastern Africa,Africa
+Chad,144,3.763,Middle Africa,Africa
+Burkina Faso,145,3.739,Western Africa,Africa
+Uganda,145,3.739,Eastern Africa,Africa
+Yemen,147,3.7239999999999998,Western Asia,Asia
+Madagascar,148,3.695,Eastern Africa,Africa
+Tanzania,149,3.6660000000000004,Eastern Africa,Africa
+Liberia,150,3.622,Western Africa,Africa
+Guinea,151,3.6069999999999998,Western Africa,Africa
+Rwanda,152,3.515,Eastern Africa,Africa
+Benin,153,3.484,Western Africa,Africa
+Afghanistan,154,3.36,Southern Asia,Asia
+Togo,155,3.303,Western Africa,Africa
+Syria,156,3.069,Western Asia,Asia
+Burundi,157,2.905,Eastern Africa,Africa

@@ -1,0 +1,25 @@
+Replace in GDP
+{"Yemen, Rep.":"Yemen","Slovak Republic":"Slovakia","Russian Federation":"Russia","North Macedonia":"Macedonia",
+"Lao PDR":"Laos","Kyrgyz Republic":"Kyrgyzstan","Korea, Rep.":"South Korea","Iran, Islamic Rep.":"Iran",
+"Hong Kong SAR, China":"Hong Kong","Egypt, Arab Rep.":"Egypt","Cote d'Ivoire":"Ivory Coast",
+"Congo, Dem. Rep.":"Congo (Kinshasa)","Congo, Rep.":"Congo (Brazzaville)","West Bank and Gaza":"Palestinian Territories"
+
+Missing from GDP
+"North Cyprus", "Somaliland Region","Syria","Venezuela","Taiwan"
+
+Missing from PPP
+"North Cyprus", "Somaliland Region","Syria","Venezuela","Taiwan","Somolia"
+
+Missing from PopTot
+"North Cyprus", "Somaliland Region","Syria","Venezuela","Taiwan"
+
+Missing from PopDen
+"North Cyprus", "Somaliland Region","Syria","Venezuela","Taiwan","Sudan","South Sudan"
+
+Replace in Med Age
+{"Congo (Republic)":"Congo (Brazzaville)","Congo (Democratic Republic)":"Congo (Kinshasa)","Myanmar (Burma)":"Myanmar",
+"Korea (South)":"South Korea","United Kingdom of Great Britain and Northern Ireland":"United Kingdom",
+"United States of America":"United States"
+
+Missing from MedAge
+"North Cyprus","Somaliland Region"
