@@ -23,3 +23,37 @@ Replace in Med Age
 
 Missing from MedAge
 "North Cyprus","Somaliland Region"
+
+Replace in Coord
+{"Congo [Republic]":"Congo (Brazzaville)","Congo [DRC]":"Congo (Kinshasa)","Cote d'Ivoire":"Ivory Coast",
+"Macedonia [FYROM]":"Macedonia","Myanmar [Burma]"":"Myanmar"}
+
+Missing from Coord
+"South Sudan","Somaliland Region", "North Cyprus"
+
+Replace in Region
+{"Bolivia (Plurinational State of)":"Bolivia","Iran (Islamic Republic of)":"Iran","Cote d'Ivoire":"Ivory Coast",
+"China, Hong Kong SAR":"Hong Kong","Lao People's Democratic Republic":"Laos",Syrian Arab Republic":"Syria",
+"The former Yugoslav Republic of Macedonia":"Macedonia","Russian Federation":"Russia",
+"Republic of Korea":"South Korea","Republic of Moldova":"Moldova","United Kingdom of Great Britain":"United Kingdom",
+"United Republic of Tanzania":"Tanzania","United States of America":"United States","Viet Nam":"Vietnam",
+"Venezuela (Bolivarian Republic of)":"Venezuela"}
+
+
+
+
+
+
+
+
+Duplicate Congo: Congo
+Congo (Brazzaville)
+Congo (Kinshasa)
+
+Missing
+
+North Cyprus
+Palestinian Territories
+Somaliland Region
+Taiwan
+Kosovo
