@@ -1,0 +1,194 @@
+,Country,Happiness Index_2016,Alc_Consumption LPC
+0,Finland,7.41,10.7
+1,Norway,7.5,7.5
+2,Denmark,7.53,10.4
+3,Iceland,7.5,9.1
+4,Switzerland,7.51,11.5
+5,Netherlands,7.34,8.7
+6,Canada,7.4,8.9
+7,New Zealand,7.33,10.7
+8,Sweden,7.29,9.2
+9,Australia,7.31,10.6
+10,Israel,7.27,3.8
+11,Austria,7.12,11.6
+12,Costa Rica,7.09,4.8
+13,Ireland,6.91,13.0
+14,Germany,6.99,13.4
+15,Belgium,6.93,12.1
+16,Luxembourg,6.87,13.0
+17,United States,7.1,9.8
+18,United Kingdom,6.72,11.4
+19,United Arab Emirates,6.57,3.8
+20,Czech Republic,6.6,14.4
+21,Malta,6.49,8.1
+22,France,6.48,12.6
+23,Mexico,6.78,6.5
+24,Chile,6.7,9.3
+25,Panama,6.7,7.9
+26,Brazil,6.95,7.8
+27,Argentina,6.65,9.8
+28,Guatemala,6.32,2.4
+29,Uruguay,6.54,10.8
+30,Qatar,6.38,2.0
+31,Saudi Arabia,6.38,0.2
+32,Singapore,6.74,2.0
+33,Malaysia,6.0,0.9
+34,Spain,6.36,10.0
+35,Colombia,6.48,5.8
+36,Slovakia,6.08,11.5
+37,El Salvador,6.07,3.7
+38,Nicaragua,5.99,5.2
+39,Poland,5.84,11.6
+40,Bahrain,6.22,1.9
+41,Uzbekistan,5.99,2.7
+42,Kuwait,6.24,0.0
+43,Thailand,6.47,8.3
+44,Italy,5.98,7.5
+45,Ecuador,5.98,4.4
+46,Lithuania,5.81,15.0
+47,Slovenia,5.77,12.6
+48,Romania,5.53,12.6
+49,Latvia,5.56,12.9
+50,Japan,5.92,8.0
+51,Mauritius,5.65,3.6
+52,Jamaica,5.51,4.2
+53,South Korea,5.84,10.2
+54,Russia,5.86,11.7
+55,Kazakhstan,5.92,7.7
+56,Cyprus,5.55,10.8
+57,Bolivia,5.82,4.8
+58,Estonia,5.52,11.6
+59,Paraguay,5.54,7.2
+60,Peru,5.74,6.3
+61,Kosovo,5.4,
+62,Moldova,5.9,15.2
+63,Turkmenistan,5.66,5.4
+64,Hungary,5.14,11.4
+65,Libya,5.62,0.0
+66,Philippines,5.28,6.6
+67,Honduras,4.87,4.0
+68,Belarus,5.8,11.2
+69,Turkey,5.39,2.0
+70,Pakistan,5.13,0.3
+71,Portugal,5.12,12.3
+72,Serbia,5.18,11.1
+73,Greece,5.03,10.4
+74,Tajikistan,5.0,3.3
+75,Montenegro,5.16,8.0
+76,Croatia,5.49,8.9
+77,Dominican Republic,5.16,6.9
+78,Algeria,6.36,0.9
+79,Morocco,5.15,0.6
+80,China,5.24,7.2
+81,Azerbaijan,5.29,0.8
+82,Lebanon,5.13,1.5
+83,Macedonia,5.12,8.1
+84,Jordan,5.3,0.7
+85,Nigeria,4.88,13.4
+86,Kyrgyzstan,5.18,6.2
+87,Bosnia and Herzegovina,5.16,6.4
+88,Mongolia,4.91,7.4
+89,Vietnam,5.06,8.3
+90,Indonesia,5.31,0.8
+91,Bhutan,5.2,0.6
+92,Cameroon,4.51,8.9
+93,Bulgaria,4.22,12.7
+94,Nepal,4.79,2.0
+95,Venezuela,6.08,5.6
+96,Gabon,4.12,11.5
+97,Palestinian Territories,4.75,
+98,South Africa,4.46,9.3
+99,Iran,4.81,1.0
+100,Ivory Coast,3.92,
+101,Ghana,4.28,2.7
+102,Senegal,4.22,0.7
+103,Tunisia,5.04,1.9
+104,Albania,4.66,7.5
+105,Sierra Leone,4.64,5.7
+106,Congo (Brazzaville),4.24,
+107,Bangladesh,4.64,0.0
+108,Sri Lanka,4.42,4.3
+109,Iraq,4.58,0.4
+110,Mali,4.07,1.3
+111,Cambodia,3.91,6.7
+112,Burkina Faso,3.74,8.2
+113,Egypt,4.36,0.4
+114,Kenya,4.36,3.4
+115,Zambia,4.8,4.8
+116,Mauritania,4.2,0.0
+117,Ethiopia,4.51,2.8
+118,Georgia,4.25,9.8
+119,Armenia,4.36,5.5
+120,Myanmar,4.39,4.8
+121,Chad,3.76,1.5
+122,Congo (Kinshasa),4.27,
+123,India,4.4,5.7
+124,Niger,3.86,0.5
+125,Uganda,3.74,9.5
+126,Benin,3.48,3.0
+127,Sudan,4.14,0.5
+128,Ukraine,4.32,8.6
+129,Togo,3.3,3.1
+130,Guinea,3.61,1.3
+131,Angola,3.87,6.4
+132,Madagascar,3.7,1.9
+133,Zimbabwe,4.19,4.8
+134,Afghanistan,3.36,0.2
+135,Botswana,3.97,8.4
+136,Malawi,4.16,3.7
+137,Haiti,4.03,5.8
+138,Liberia,3.62,5.8
+139,Syria,3.07,
+140,Rwanda,3.52,9.0
+141,Yemen,3.72,0.1
+142,Tanzania,3.67,9.4
+143,Burundi,2.9,7.5
+144,Andorra,,11.3
+145,Antigua and Barbuda,,7.0
+146,Bahamas,,4.4
+147,Barbados,,9.6
+148,Belize,,6.7
+149,Brunei,,0.4
+150,Cape Verde,,5.7
+151,Central African Republic,,3.3
+152,Comoros,,0.9
+153,Congo,,7.8
+154,Cote d'Ivoire,,8.4
+155,Cuba,,6.1
+156,Democratic Republic of Congo,,2.6
+157,Djibouti,,0.5
+158,Dominica,,8.2
+159,Equatorial Guinea,,11.3
+160,Eritrea,,1.3
+161,Fiji,,3.0
+162,Gambia,,3.8
+163,Grenada,,9.3
+164,Guinea-Bissau,,4.8
+165,Guyana,,6.3
+166,Kiribati,,0.4
+167,Laos,,10.4
+168,Lesotho,,5.0
+169,Maldives,,2.7
+170,Micronesia (country),,2.5
+171,Mozambique,,2.4
+172,Namibia,,9.8
+173,Nauru,,6.0
+174,North Korea,,3.9
+175,Oman,,0.8
+176,Papua New Guinea,,1.2
+177,Saint Kitts and Nevis,,9.4
+178,Saint Lucia,,9.9
+179,Saint Vincent and the Grenadines,,8.2
+180,Samoa,,2.5
+181,Sao Tome and Principe,,6.8
+182,Seychelles,,12.0
+183,Solomon Islands,,1.4
+184,Somalia,,0.0
+185,Suriname,,5.1
+186,Swaziland,,9.9
+187,Timor,,2.1
+188,Tonga,,1.5
+189,Trinidad and Tobago,,8.4
+190,Tuvalu,,1.7
+191,Vanuatu,,1.0
+192,World,,6.376976124693298
