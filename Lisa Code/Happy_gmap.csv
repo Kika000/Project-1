@@ -1,0 +1,158 @@
+Country,Happiness Rank,Happiness Score,Check
+Denmark,1,7.526,1
+Switzerland,2,7.5089999999999995,1
+Iceland,3,7.501,1
+Norway,4,7.497999999999999,1
+Finland,5,7.412999999999999,1
+Canada,6,7.404,1
+Netherlands,7,7.3389999999999995,1
+New Zealand,8,7.334,1
+Australia,9,7.313,1
+Sweden,10,7.291,1
+Israel,11,7.267,1
+Austria,12,7.119,1
+United States of America,13,7.104,1
+Costa Rica,14,7.087000000000001,1
+Puerto Rico,15,7.039,1
+Germany,16,6.994,1
+Brazil,17,6.952000000000001,1
+Belgium,18,6.928999999999999,1
+Ireland,19,6.907,1
+Luxembourg,20,6.871,1
+Mexico,21,6.778,1
+Singapore,22,6.739,1
+United Kingdom,23,6.725,1
+Chile,24,6.705,1
+Panama,25,6.7010000000000005,1
+Argentina,26,6.65,1
+Czech Republic,27,6.596,1
+United Arab Emirates,28,6.5729999999999995,1
+Uruguay,29,6.545,1
+Malta,30,6.4879999999999995,1
+Colombia,31,6.481,1
+France,32,6.478,1
+Thailand,33,6.474,1
+Saudi Arabia,34,6.379,1
+Taiwan,34,6.379,1
+Qatar,36,6.375,1
+Spain,37,6.361000000000001,1
+Algeria,38,6.355,1
+Guatemala,39,6.324,1
+Suriname,40,6.269,1
+Kuwait,41,6.239,1
+Bahrain,42,6.218,1
+Trinidad and Tobago,43,6.167999999999999,1
+Venezuela,44,6.084,1
+Slovakia,45,6.077999999999999,1
+El Salvador,46,6.068,1
+Malaysia,47,6.005,1
+Nicaragua,48,5.992000000000001,1
+Uzbekistan,49,5.987,1
+Italy,50,5.977,1
+Ecuador,51,5.976,1
+Belize,52,5.956,1
+Japan,53,5.921,1
+Kazakhstan,54,5.919,1
+Moldova,55,5.897,1
+Russia,56,5.856,1
+Poland,57,5.835,1
+South Korea,57,5.835,1
+Bolivia,59,5.822,1
+Lithuania,60,5.813,1
+Belarus,61,5.8020000000000005,1
+Northern Cyprus,62,5.771,1
+Slovenia,63,5.768,1
+Peru,64,5.742999999999999,1
+Turkmenistan,65,5.6579999999999995,1
+Mauritius,66,5.648,1
+Libya,67,5.615,1
+Latvia,68,5.56,1
+Cyprus,69,5.546,1
+Paraguay,70,5.537999999999999,1
+Romania,71,5.528,1
+Estonia,72,5.517,1
+Jamaica,73,5.51,1
+Croatia,74,5.4879999999999995,1
+Hong Kong S.A.R.,75,5.457999999999999,1
+Somalia,76,5.44,1
+Kosovo,77,5.401,1
+Turkey,78,5.388999999999999,1
+Indonesia,79,5.314,1
+Jordan,80,5.303,1
+Azerbaijan,81,5.291,1
+Philippines,82,5.279,1
+China,83,5.245,1
+Bhutan,84,5.196000000000001,1
+Kyrgyzstan,85,5.185,1
+Republic of Serbia,86,5.1770000000000005,1
+Bosnia and Herzegovina,87,5.162999999999999,1
+Montenegro,88,5.1610000000000005,1
+Dominican Republic,89,5.155,1
+Morocco,90,5.151,1
+Hungary,91,5.145,1
+Pakistan,92,5.132000000000001,1
+Lebanon,93,5.129,1
+Portugal,94,5.122999999999999,1
+Macedonia,95,5.121,1
+Vietnam,96,5.061,1
+Somaliland,97,5.0569999999999995,1
+Tunisia,98,5.045,1
+Greece,99,5.033,1
+Tajikistan,100,4.996,1
+Mongolia,101,4.907,1
+Laos,102,4.876,1
+Nigeria,103,4.875,1
+Honduras,104,4.871,1
+Iran,105,4.813,1
+Zambia,106,4.795,1
+Nepal,107,4.793,1
+Palestine,108,4.754,1
+Albania,109,4.655,1
+Bangladesh,110,4.643,1
+Sierra Leone,111,4.635,1
+Iraq,112,4.575,1
+Namibia,113,4.574,1
+Cameroon,114,4.513,1
+Ethiopia,115,4.508,1
+South Africa,116,4.459,1
+Sri Lanka,117,4.415,1
+India,118,4.404,1
+Myanmar,119,4.395,1
+Egypt,120,4.362,1
+Armenia,121,4.36,1
+Kenya,122,4.356,1
+Ukraine,123,4.324,1
+Ghana,124,4.276,1
+Democratic Republic of the Congo,125,4.272,1
+Georgia,126,4.252,1
+Republic of Congo,127,4.236000000000001,1
+Senegal,128,4.218999999999999,1
+Bulgaria,129,4.217,1
+Mauritania,130,4.2010000000000005,1
+Zimbabwe,131,4.1930000000000005,1
+Malawi,132,4.156000000000001,1
+Sudan,133,4.138999999999999,1
+Gabon,134,4.121,1
+Mali,135,4.073,1
+Haiti,136,4.0280000000000005,1
+Botswana,137,3.9739999999999998,1
+Comoros,138,3.9560000000000004,1
+Ivory Coast,139,3.9160000000000004,1
+Cambodia,140,3.907,1
+Angola,141,3.866,1
+Niger,142,3.8560000000000003,1
+South Sudan,143,3.832,1
+Chad,144,3.763,1
+Burkina Faso,145,3.739,1
+Uganda,145,3.739,1
+Yemen,147,3.7239999999999998,1
+Madagascar,148,3.695,1
+United Republic of Tanzania,149,3.6660000000000004,1
+Liberia,150,3.622,1
+Guinea,151,3.6069999999999998,1
+Rwanda,152,3.515,1
+Benin,153,3.484,1
+Afghanistan,154,3.36,1
+Togo,155,3.303,1
+Syria,156,3.069,1
+Burundi,157,2.905,1

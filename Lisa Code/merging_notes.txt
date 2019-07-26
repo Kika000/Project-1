@@ -31,7 +31,7 @@ Replace in Coord
 Missing from Coord
 "South Sudan","Somaliland Region", "North Cyprus"
 
-Replace in Region
+Replace Region
 {"Bolivia (Plurinational State of)":"Bolivia","Iran (Islamic Republic of)":"Iran","Cote d'Ivoire":"Ivory Coast",
 "China, Hong Kong SAR":"Hong Kong","Lao People's Democratic Republic":"Laos",Syrian Arab Republic":"Syria",
 "The former Yugoslav Republic of Macedonia":"Macedonia","Russian Federation":"Russia",
@@ -39,21 +39,22 @@ Replace in Region
 "United Republic of Tanzania":"Tanzania","United States of America":"United States","Viet Nam":"Vietnam",
 "Venezuela (Bolivarian Republic of)":"Venezuela"}
 
-
-
-
-
-
-
-
 Duplicate Congo: Congo
 Congo (Brazzaville)
 Congo (Kinshasa)
 
 Missing
-
 North Cyprus
 Palestinian Territories
 Somaliland Region
 Taiwan
 Kosovo
+
+Replace in Gmap data
+{"United States":"United States of America","Hong Kong":"Hong Kong S.A.R.",""Somaliland Region"":"Somaliland",
+"Congo (Kinshasa)":"Democratic Republic of the Congo","Congo (Brazzaville)":"Republic of Congo",
+"Palestinian Territories":"Palestine","Tanzania":"United Republic of Tanzania","Serbia":"Republic of Serbia",
+"North Cyprus":"Northern Cyprus"}
+
+
+
