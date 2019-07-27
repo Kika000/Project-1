@@ -1,2 +1,2 @@
 # Enter your API
-gkey = ""
+gkey = "AIzaSyCqCk8NjqeWkndh3WNkIaOmPLWPyT2bKmY"

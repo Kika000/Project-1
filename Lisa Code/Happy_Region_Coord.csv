@@ -1,253 +1,155 @@
 Country,Happiness Rank,Happiness Score,Region,Continent,Latitude,Longitude
-Denmark,1.0,7.526,Northern Europe,Europe,56.26392,9.501785
-Switzerland,2.0,7.5089999999999995,Western Europe,Europe,46.818188,8.227511999999999
-Iceland,3.0,7.501,Northern Europe,Europe,64.96305100000001,-19.020835
-Norway,4.0,7.497999999999999,Northern Europe,Europe,60.472024,8.468946
-Finland,5.0,7.412999999999999,Northern Europe,Europe,61.92411,25.748151
-Canada,6.0,7.404,Northern America,North America,56.130366,-106.346771
-Netherlands,7.0,7.3389999999999995,Western Europe,Europe,52.132633,5.291266
-New Zealand,8.0,7.334,Australia and New Zealand,Oceania,-40.900557,174.88597099999996
-Australia,9.0,7.313,Australia and New Zealand,Oceania,-25.274398,133.775136
-Sweden,10.0,7.291,Northern Europe,Europe,60.128161,18.643501
-Israel,11.0,7.267,Western Asia,Asia,31.046051,34.851612
-Austria,12.0,7.119,Western Europe,Europe,47.516231,14.550072
-United States,13.0,7.104,Northern America,North America,37.09024,-95.712891
-Costa Rica,14.0,7.087000000000001,Central America,North America,9.748917,-83.753428
-Puerto Rico,15.0,7.039,Caribbean,North America,18.220833,-66.590149
-Germany,16.0,6.994,Western Europe,Europe,51.165691,10.451526
-Brazil,17.0,6.952000000000001,South America,South America,-14.235004,-51.92528
-Belgium,18.0,6.928999999999999,Western Europe,Europe,50.503887,4.469936
-Ireland,19.0,6.907,Northern Europe,Europe,53.41291,-8.243889999999999
-Luxembourg,20.0,6.871,Western Europe,Europe,49.815273,6.129583
-Mexico,21.0,6.778,Central America,North America,23.634501,-102.552784
-Singapore,22.0,6.739,South-Eastern Asia,Asia,1.352083,103.819836
-United Kingdom,23.0,6.725,Northern Europe,Europe,55.378051,-3.435973
-Chile,24.0,6.705,South America,South America,-35.675147,-71.542969
-Panama,25.0,6.7010000000000005,Central America,North America,8.537981,-80.782127
-Argentina,26.0,6.65,South America,South America,-38.416097,-63.616672
-Czech Republic,27.0,6.596,Eastern Europe,Europe,49.817492,15.472962
-United Arab Emirates,28.0,6.5729999999999995,Western Asia,Asia,23.424076,53.847818
-Uruguay,29.0,6.545,South America,South America,-32.522779,-55.765835
-Malta,30.0,6.4879999999999995,Southern Europe,Europe,35.937496,14.375416
-Colombia,31.0,6.481,South America,South America,4.570868,-74.297333
-France,32.0,6.478,Western Europe,Europe,46.227638,2.213749
-Thailand,33.0,6.474,South-Eastern Asia,Asia,15.870032,100.992541
-Saudi Arabia,34.0,6.379,Western Asia,Asia,23.885942,45.079162
-Taiwan,34.0,6.379,Eastern Asia,Asia,23.69781,120.960515
-Qatar,36.0,6.375,Western Asia,Asia,25.354826,51.183884
-Spain,37.0,6.361000000000001,Southern Europe,Europe,40.463667,-3.74922
-Algeria,38.0,6.355,Northern Africa,Africa,28.033886,1.6596259999999998
-Guatemala,39.0,6.324,Central America,North America,15.783471,-90.230759
-Suriname,40.0,6.269,South America,South America,3.919305000000001,-56.02778299999999
-Kuwait,41.0,6.239,Western Asia,Asia,29.31166,47.481766
-Bahrain,42.0,6.218,Western Asia,Asia,25.930414000000006,50.637772
-Trinidad and Tobago,43.0,6.167999999999999,Caribbean,North America,10.691803,-61.222503
-Venezuela,44.0,6.084,South America,South America,6.42375,-66.58973
-Slovakia,45.0,6.077999999999999,Eastern Europe,Europe,48.669026,19.699024
-El Salvador,46.0,6.068,Central America,North America,13.794185,-88.89653
-Malaysia,47.0,6.005,South-Eastern Asia,Asia,4.210483999999999,101.975766
-Nicaragua,48.0,5.992000000000001,Central America,North America,12.865416,-85.207229
-Uzbekistan,49.0,5.987,Central Asia,Asia,41.377491,64.585262
-Italy,50.0,5.977,Southern Europe,Europe,41.87194,12.56738
-Ecuador,51.0,5.976,South America,South America,-1.831239,-78.183406
-Belize,52.0,5.956,Central America,North America,17.189877,-88.49765
-Japan,53.0,5.921,Eastern Asia,Asia,36.204824,138.252924
-Kazakhstan,54.0,5.919,Central Asia,Asia,48.019573,66.923684
-Moldova,55.0,5.897,Eastern Europe,Europe,47.411631,28.369885
-Russia,56.0,5.856,Eastern Europe,Europe,61.52401,105.318756
-Poland,57.0,5.835,Eastern Europe,Europe,51.919438,19.145136
-South Korea,57.0,5.835,Eastern Asia,Asia,35.90775700000001,127.766922
-Bolivia,59.0,5.822,South America,South America,-16.290154,-63.588653
-Lithuania,60.0,5.813,Northern Europe,Europe,55.169438,23.881275
-Belarus,61.0,5.8020000000000005,Eastern Europe,Europe,53.709807,27.953389
-North Cyprus,62.0,5.771,Western Asia,Asia,,
-Slovenia,63.0,5.768,Southern Europe,Europe,46.151241,14.995463
-Peru,64.0,5.742999999999999,South America,South America,-9.189967,-75.015152
-Turkmenistan,65.0,5.6579999999999995,Central Asia,Asia,38.969719,59.556278000000006
-Mauritius,66.0,5.648,Eastern Africa,Africa,-20.348404,57.552152
-Libya,67.0,5.615,Northern Africa,Africa,26.3351,17.228331
-Latvia,68.0,5.56,Northern Europe,Europe,56.879635,24.603189
-Cyprus,69.0,5.546,Western Asia,Asia,35.126413,33.429859
-Paraguay,70.0,5.537999999999999,South America,South America,-23.442503,-58.44383199999999
-Romania,71.0,5.528,Eastern Europe,Europe,45.943161,24.96676
-Estonia,72.0,5.517,Northern Europe,Europe,58.595272,25.013607
-Jamaica,73.0,5.51,Caribbean,North America,18.109581,-77.297508
-Croatia,74.0,5.4879999999999995,Southern Europe,Europe,45.1,15.2
-Hong Kong,75.0,5.457999999999999,Eastern Asia,Asia,22.396428,114.109497
-Somalia,76.0,5.44,Eastern Africa,Africa,5.152149,46.199616
-Kosovo,77.0,5.401,Southern Europe,Europe,42.602636,20.902977
-Turkey,78.0,5.388999999999999,Western Asia,Asia,38.963745,35.243322
-Indonesia,79.0,5.314,South-Eastern Asia,Asia,-0.789275,113.921327
-Jordan,80.0,5.303,Western Asia,Asia,30.585164,36.238414
-Azerbaijan,81.0,5.291,Western Asia,Asia,40.143105,47.57692700000001
-Philippines,82.0,5.279,South-Eastern Asia,Asia,12.879721,121.774017
-China,83.0,5.245,Eastern Asia,Asia,35.86166,104.195397
-Bhutan,84.0,5.196000000000001,Southern Asia,Asia,27.514162,90.433601
-Kyrgyzstan,85.0,5.185,Central Asia,Asia,41.20438,74.766098
-Serbia,86.0,5.1770000000000005,Southern Europe,Europe,44.016521,21.005859
-Bosnia and Herzegovina,87.0,5.162999999999999,Southern Europe,Europe,43.915886,17.679076000000006
-Montenegro,88.0,5.1610000000000005,Southern Europe,Europe,42.708678000000006,19.37439
-Dominican Republic,89.0,5.155,Caribbean,North America,18.735693,-70.162651
-Morocco,90.0,5.151,Northern Africa,Africa,31.791702,-7.09262
-Hungary,91.0,5.145,Eastern Europe,Europe,47.162494,19.503304
-Pakistan,92.0,5.132000000000001,Southern Asia,Asia,30.375321000000003,69.345116
-Lebanon,93.0,5.129,Western Asia,Asia,33.854721000000005,35.862285
-Portugal,94.0,5.122999999999999,Southern Europe,Europe,39.399872,-8.224454
-Macedonia,95.0,5.121,Southern Europe,Europe,,
-Vietnam,96.0,5.061,South-Eastern Asia,Asia,14.058324,108.277199
-Somaliland Region,97.0,5.0569999999999995,Eastern Africa,Africa,,
-Tunisia,98.0,5.045,Northern Africa,Africa,33.886917,9.537499
-Greece,99.0,5.033,Southern Europe,Europe,39.074208,21.824312
-Tajikistan,100.0,4.996,Central Asia,Asia,38.861034,71.276093
-Mongolia,101.0,4.907,Eastern Asia,Asia,46.862496,103.846656
-Laos,102.0,4.876,South-Eastern Asia,Asia,19.85627,102.495496
-Nigeria,103.0,4.875,Western Africa,Africa,9.081999,8.675277000000001
-Honduras,104.0,4.871,Central America,North America,15.199998999999998,-86.241905
-Iran,105.0,4.813,Southern Asia,Asia,32.427908,53.68804599999999
-Zambia,106.0,4.795,Eastern Africa,Africa,-13.133897,27.849332
-Nepal,107.0,4.793,Southern Asia,Asia,28.394857,84.12400799999998
-Palestinian Territories,108.0,4.754,Western Asia,Asia,31.952162,35.233154
-Albania,109.0,4.655,Southern Europe,Europe,41.153332,20.168331
-Bangladesh,110.0,4.643,Southern Asia,Asia,23.684994,90.356331
-Sierra Leone,111.0,4.635,Western Africa,Africa,8.460555000000001,-11.779889
-Iraq,112.0,4.575,Western Asia,Asia,33.223191,43.679291
-Namibia,113.0,4.574,Southern Africa,Africa,-22.95764,18.49041
-Cameroon,114.0,4.513,Middle Africa,Africa,7.369722,12.354722
-Ethiopia,115.0,4.508,Eastern Africa,Africa,9.145,40.489673
-South Africa,116.0,4.459,Southern Africa,Africa,-30.559482,22.937506
-Sri Lanka,117.0,4.415,Southern Asia,Asia,7.873054,80.77179699999998
-India,118.0,4.404,Southern Asia,Asia,20.593684,78.96288
-Myanmar,119.0,4.395,South-Eastern Asia,Asia,,
-Egypt,120.0,4.362,Northern Africa,Africa,26.820553000000004,30.802498
-Armenia,121.0,4.36,Western Asia,Asia,40.069099,45.038189
-Kenya,122.0,4.356,Eastern Africa,Africa,-0.023559,37.906193
-Ukraine,123.0,4.324,Eastern Europe,Europe,48.379433,31.16558
-Ghana,124.0,4.276,Western Africa,Africa,7.9465270000000015,-1.0231940000000002
-Congo (Kinshasa),125.0,4.272,Middle Africa,Africa,,
-Georgia,126.0,4.252,Western Asia,Asia,42.315407,43.356892
-Congo (Brazzaville),127.0,4.236000000000001,Middle Africa,Africa,,
-Senegal,128.0,4.218999999999999,Western Africa,Africa,14.497401000000002,-14.452362
-Bulgaria,129.0,4.217,Eastern Europe,Europe,42.733883,25.48583
-Mauritania,130.0,4.2010000000000005,Western Africa,Africa,21.00789,-10.940835
-Zimbabwe,131.0,4.1930000000000005,Eastern Africa,Africa,-19.015438,29.154857
-Malawi,132.0,4.156000000000001,Eastern Africa,Africa,-13.254307999999998,34.301525
-Sudan,133.0,4.138999999999999,Northern Africa,Africa,12.862807,30.217636
-Gabon,134.0,4.121,Middle Africa,Africa,-0.803689,11.609444
-Mali,135.0,4.073,Western Africa,Africa,17.570692,-3.996166000000001
-Haiti,136.0,4.0280000000000005,Caribbean,North America,18.971187,-72.28521500000002
-Botswana,137.0,3.9739999999999998,Southern Africa,Africa,-22.328474,24.684866
-Comoros,138.0,3.9560000000000004,Eastern Africa,Africa,-11.875001,43.872219
-Ivory Coast,139.0,3.9160000000000004,Western Africa,Africa,,
-Cambodia,140.0,3.907,South-Eastern Asia,Asia,12.565679,104.990963
-Angola,141.0,3.866,Middle Africa,Africa,-11.202692,17.873887
-Niger,142.0,3.8560000000000003,Western Africa,Africa,17.607789,8.081666
-South Sudan,143.0,3.832,Eastern Africa,Africa,,
-Chad,144.0,3.763,Middle Africa,Africa,15.454166,18.732207
-Burkina Faso,145.0,3.739,Western Africa,Africa,12.238333,-1.561593
-Uganda,145.0,3.739,Eastern Africa,Africa,1.373333,32.290275
-Yemen,147.0,3.7239999999999998,Western Asia,Asia,15.552727,48.516388
-Madagascar,148.0,3.695,Eastern Africa,Africa,-18.766947,46.869107
-Tanzania,149.0,3.6660000000000004,Eastern Africa,Africa,-6.369028,34.888822
-Liberia,150.0,3.622,Western Africa,Africa,6.4280550000000005,-9.429499
-Guinea,151.0,3.6069999999999998,Western Africa,Africa,9.945587,-9.696645
-Rwanda,152.0,3.515,Eastern Africa,Africa,-1.940278,29.873888
-Benin,153.0,3.484,Western Africa,Africa,9.30769,2.315834
-Afghanistan,154.0,3.36,Southern Asia,Asia,33.93911,67.709953
-Togo,155.0,3.303,Western Africa,Africa,8.619543,0.824782
-Syria,156.0,3.069,Western Asia,Asia,34.802075,38.99681500000001
-Burundi,157.0,2.905,Eastern Africa,Africa,-3.373056,29.918886
-Andorra,,,,,42.546245,1.601554
-Antigua and Barbuda,,,,,17.060816,-61.79642800000001
-Anguilla,,,,,18.220554,-63.068615
-Netherlands Antilles,,,,,12.226079,-69.060087
-Antarctica,,,,,-75.250973,-0.071389
-American Samoa,,,,,-14.270972,-170.132217
-Aruba,,,,,12.52111,-69.968338
-Barbados,,,,,13.193887,-59.543198
-Bermuda,,,,,32.321384,-64.75737
-Brunei,,,,,4.535277,114.727669
-Bahamas,,,,,25.03428,-77.39628
-Bouvet Island,,,,,-54.423199,3.4131940000000003
-Cocos [Keeling] Islands,,,,,-12.164165,96.870956
-Congo [DRC],,,,,-4.0383330000000015,21.758664000000003
-Central African Republic,,,,,6.611111,20.939444
-Congo [Republic],,,,,-0.228021,15.827659
-Cote d'Ivoire,,,,,7.539989,-5.54708
-Cook Islands,,,,,-21.236736,-159.777671
-Cuba,,,,,21.521757,-77.78116700000002
-Cape Verde,,,,,16.002082,-24.013197
-Christmas Island,,,,,-10.447525,105.690449
-Djibouti,,,,,11.825138,42.590275
-Dominica,,,,,15.414999,-61.370976
-Western Sahara,,,,,24.215527,-12.885834
-Eritrea,,,,,15.179384,39.78233400000001
-Fiji,,,,,-16.578193,179.414413
-Falkland Islands [Islas Malvinas],,,,,-51.796253,-59.523613
-Micronesia,,,,,7.425553999999999,150.550812
-Faroe Islands,,,,,61.892635,-6.911806
-Grenada,,,,,12.262776,-61.604171
-French Guiana,,,,,3.933889,-53.125782
-Guernsey,,,,,49.465691,-2.585278
-Gibraltar,,,,,36.137741,-5.345374
-Greenland,,,,,71.706936,-42.604303
-Gambia,,,,,13.443182,-15.310139
-Guadeloupe,,,,,16.995971,-62.067641
-Equatorial Guinea,,,,,1.6508009999999995,10.267895
-South Georgia and the South Sandwich Islands,,,,,-54.429579,-36.587909
-Guam,,,,,13.444304,144.793731
-Guinea-Bissau,,,,,11.803749,-15.180413
-Guyana,,,,,4.860416000000002,-58.93018000000001
-Gaza Strip,,,,,31.354676,34.308825
-Heard Island and McDonald Islands,,,,,-53.08181,73.50415799999998
-Isle of Man,,,,,54.236107,-4.548056
-British Indian Ocean Territory,,,,,-6.343194,71.87651899999999
-Jersey,,,,,49.214439,-2.13125
-Kiribati,,,,,-3.370417,-168.734039
-Saint Kitts and Nevis,,,,,17.357822,-62.782998
-North Korea,,,,,40.339852,127.510093
-Cayman Islands,,,,,19.513469,-80.566956
-Saint Lucia,,,,,13.909444,-60.97889300000001
-Liechtenstein,,,,,47.166,9.555373
-Lesotho,,,,,-29.609988,28.233608
-Monaco,,,,,43.750298,7.412841
-Marshall Islands,,,,,7.131474000000001,171.184478
-Macedonia [FYROM],,,,,41.608635,21.745275
-Myanmar [Burma],,,,,21.913965,95.956223
-Macau,,,,,22.198745,113.543873
-Northern Mariana Islands,,,,,17.33083,145.38468999999995
-Martinique,,,,,14.641528,-61.024174
-Montserrat,,,,,16.742498,-62.187366
-Maldives,,,,,3.202778,73.22068
-Mozambique,,,,,-18.665695,35.529562
-New Caledonia,,,,,-20.904305,165.618042
-Norfolk Island,,,,,-29.040835,167.954712
-Nauru,,,,,-0.522778,166.931503
-Niue,,,,,-19.054445,-169.867233
-Oman,,,,,21.512583,55.92325500000001
-French Polynesia,,,,,-17.679742,-149.40684299999995
-Papua New Guinea,,,,,-6.314993,143.95555
-Saint Pierre and Miquelon,,,,,46.941936,-56.27111
-Pitcairn Islands,,,,,-24.703615,-127.439308
-Palau,,,,,7.51498,134.58252
-Reunion,,,,,-21.115141,55.536384
-Solomon Islands,,,,,-9.64571,160.156194
-Seychelles,,,,,-4.679574,55.491977
-Saint Helena,,,,,-24.143474,-10.030696
-Svalbard and Jan Mayen,,,,,77.553604,23.670272
-San Marino,,,,,43.94236,12.457777
-Sao Tomo and Principe,,,,,0.18636,6.613081
-Swaziland,,,,,-26.522503000000004,31.465866
-Turks and Caicos Islands,,,,,21.694025,-71.797928
-French Southern Territories,,,,,-49.280366,69.348557
-Tokelau,,,,,-8.967363,-171.855881
-Timor-Leste,,,,,-8.874217,125.727539
-Tonga,,,,,-21.178986,-175.198242
-Tuvalu,,,,,-7.109535,177.64933
-Vatican City,,,,,41.902916,12.453389
-Saint Vincent and the Grenadines,,,,,12.984305,-61.287228000000006
-British Virgin Islands,,,,,18.420695,-64.63996800000001
-U.S. Virgin Islands,,,,,18.335765,-64.896335
-Vanuatu,,,,,-15.376706,166.959158
-Wallis and Futuna,,,,,-13.768752,-177.156097
-Samoa,,,,,-13.759029,-172.10462900000005
-Mayotte,,,,,-12.8275,45.166244
+Denmark,1,7.526,Northern Europe,Europe,56.26392,9.501785
+Switzerland,2,7.5089999999999995,Western Europe,Europe,46.818188,8.227511999999999
+Iceland,3,7.501,Northern Europe,Europe,64.96305100000001,-19.020835
+Norway,4,7.497999999999999,Northern Europe,Europe,60.472024,8.468946
+Finland,5,7.412999999999999,Northern Europe,Europe,61.92411,25.748151
+Canada,6,7.404,Northern America,North America,56.130366,-106.346771
+Netherlands,7,7.3389999999999995,Western Europe,Europe,52.132633,5.291266
+New Zealand,8,7.334,Australia and New Zealand,Oceania,-40.900557,174.88597099999996
+Australia,9,7.313,Australia and New Zealand,Oceania,-25.274398,133.775136
+Sweden,10,7.291,Northern Europe,Europe,60.128161,18.643501
+Israel,11,7.267,Western Asia,Asia,31.046051,34.851612
+Austria,12,7.119,Western Europe,Europe,47.516231,14.550072
+United States,13,7.104,Northern America,North America,37.09024,-95.712891
+Costa Rica,14,7.087000000000001,Central America,North America,9.748917,-83.753428
+Puerto Rico,15,7.039,Caribbean,North America,18.220833,-66.590149
+Germany,16,6.994,Western Europe,Europe,51.165691,10.451526
+Brazil,17,6.952000000000001,South America,South America,-14.235004,-51.92528
+Belgium,18,6.928999999999999,Western Europe,Europe,50.503887,4.469936
+Ireland,19,6.907,Northern Europe,Europe,53.41291,-8.243889999999999
+Luxembourg,20,6.871,Western Europe,Europe,49.815273,6.129583
+Mexico,21,6.778,Central America,North America,23.634501,-102.552784
+Singapore,22,6.739,South-Eastern Asia,Asia,1.352083,103.819836
+United Kingdom,23,6.725,Northern Europe,Europe,55.378051,-3.435973
+Chile,24,6.705,South America,South America,-35.675147,-71.542969
+Panama,25,6.7010000000000005,Central America,North America,8.537981,-80.782127
+Argentina,26,6.65,South America,South America,-38.416097,-63.616672
+Czech Republic,27,6.596,Eastern Europe,Europe,49.817492,15.472962
+United Arab Emirates,28,6.5729999999999995,Western Asia,Asia,23.424076,53.847818
+Uruguay,29,6.545,South America,South America,-32.522779,-55.765835
+Malta,30,6.4879999999999995,Southern Europe,Europe,35.937496,14.375416
+Colombia,31,6.481,South America,South America,4.570868,-74.297333
+France,32,6.478,Western Europe,Europe,46.227638,2.213749
+Thailand,33,6.474,South-Eastern Asia,Asia,15.870032,100.992541
+Saudi Arabia,34,6.379,Western Asia,Asia,23.885942,45.079162
+Taiwan,34,6.379,Eastern Asia,Asia,23.69781,120.960515
+Qatar,36,6.375,Western Asia,Asia,25.354826,51.183884
+Spain,37,6.361000000000001,Southern Europe,Europe,40.463667,-3.74922
+Algeria,38,6.355,Northern Africa,Africa,28.033886,1.6596259999999998
+Guatemala,39,6.324,Central America,North America,15.783471,-90.230759
+Suriname,40,6.269,South America,South America,3.919305000000001,-56.02778299999999
+Kuwait,41,6.239,Western Asia,Asia,29.31166,47.481766
+Bahrain,42,6.218,Western Asia,Asia,25.930414000000006,50.637772
+Trinidad and Tobago,43,6.167999999999999,Caribbean,North America,10.691803,-61.222503
+Venezuela,44,6.084,South America,South America,6.42375,-66.58973
+Slovakia,45,6.077999999999999,Eastern Europe,Europe,48.669026,19.699024
+El Salvador,46,6.068,Central America,North America,13.794185,-88.89653
+Malaysia,47,6.005,South-Eastern Asia,Asia,4.210483999999999,101.975766
+Nicaragua,48,5.992000000000001,Central America,North America,12.865416,-85.207229
+Uzbekistan,49,5.987,Central Asia,Asia,41.377491,64.585262
+Italy,50,5.977,Southern Europe,Europe,41.87194,12.56738
+Ecuador,51,5.976,South America,South America,-1.831239,-78.183406
+Belize,52,5.956,Central America,North America,17.189877,-88.49765
+Japan,53,5.921,Eastern Asia,Asia,36.204824,138.252924
+Kazakhstan,54,5.919,Central Asia,Asia,48.019573,66.923684
+Moldova,55,5.897,Eastern Europe,Europe,47.411631,28.369885
+Russia,56,5.856,Eastern Europe,Europe,61.52401,105.318756
+Poland,57,5.835,Eastern Europe,Europe,51.919438,19.145136
+South Korea,57,5.835,Eastern Asia,Asia,35.90775700000001,127.766922
+Bolivia,59,5.822,South America,South America,-16.290154,-63.588653
+Lithuania,60,5.813,Northern Europe,Europe,55.169438,23.881275
+Belarus,61,5.8020000000000005,Eastern Europe,Europe,53.709807,27.953389
+Slovenia,63,5.768,Southern Europe,Europe,46.151241,14.995463
+Peru,64,5.742999999999999,South America,South America,-9.189967,-75.015152
+Turkmenistan,65,5.6579999999999995,Central Asia,Asia,38.969719,59.556278000000006
+Mauritius,66,5.648,Eastern Africa,Africa,-20.348404,57.552152
+Libya,67,5.615,Northern Africa,Africa,26.3351,17.228331
+Latvia,68,5.56,Northern Europe,Europe,56.879635,24.603189
+Cyprus,69,5.546,Western Asia,Asia,35.126413,33.429859
+Paraguay,70,5.537999999999999,South America,South America,-23.442503,-58.44383199999999
+Romania,71,5.528,Eastern Europe,Europe,45.943161,24.96676
+Estonia,72,5.517,Northern Europe,Europe,58.595272,25.013607
+Jamaica,73,5.51,Caribbean,North America,18.109581,-77.297508
+Croatia,74,5.4879999999999995,Southern Europe,Europe,45.1,15.2
+Hong Kong,75,5.457999999999999,Eastern Asia,Asia,22.396428,114.109497
+Somalia,76,5.44,Eastern Africa,Africa,5.152149,46.199616
+Kosovo,77,5.401,Southern Europe,Europe,42.602636,20.902977
+Turkey,78,5.388999999999999,Western Asia,Asia,38.963745,35.243322
+Indonesia,79,5.314,South-Eastern Asia,Asia,-0.789275,113.921327
+Jordan,80,5.303,Western Asia,Asia,30.585164,36.238414
+Azerbaijan,81,5.291,Western Asia,Asia,40.143105,47.57692700000001
+Philippines,82,5.279,South-Eastern Asia,Asia,12.879721,121.774017
+China,83,5.245,Eastern Asia,Asia,35.86166,104.195397
+Bhutan,84,5.196000000000001,Southern Asia,Asia,27.514162,90.433601
+Kyrgyzstan,85,5.185,Central Asia,Asia,41.20438,74.766098
+Serbia,86,5.1770000000000005,Southern Europe,Europe,44.016521,21.005859
+Bosnia and Herzegovina,87,5.162999999999999,Southern Europe,Europe,43.915886,17.679076000000006
+Montenegro,88,5.1610000000000005,Southern Europe,Europe,42.708678000000006,19.37439
+Dominican Republic,89,5.155,Caribbean,North America,18.735693,-70.162651
+Morocco,90,5.151,Northern Africa,Africa,31.791702,-7.09262
+Hungary,91,5.145,Eastern Europe,Europe,47.162494,19.503304
+Pakistan,92,5.132000000000001,Southern Asia,Asia,30.375321000000003,69.345116
+Lebanon,93,5.129,Western Asia,Asia,33.854721000000005,35.862285
+Portugal,94,5.122999999999999,Southern Europe,Europe,39.399872,-8.224454
+Macedonia,95,5.121,Southern Europe,Europe,41.608635,21.745275
+Vietnam,96,5.061,South-Eastern Asia,Asia,14.058324,108.277199
+Tunisia,98,5.045,Northern Africa,Africa,33.886917,9.537499
+Greece,99,5.033,Southern Europe,Europe,39.074208,21.824312
+Tajikistan,100,4.996,Central Asia,Asia,38.861034,71.276093
+Mongolia,101,4.907,Eastern Asia,Asia,46.862496,103.846656
+Laos,102,4.876,South-Eastern Asia,Asia,19.85627,102.495496
+Nigeria,103,4.875,Western Africa,Africa,9.081999,8.675277000000001
+Honduras,104,4.871,Central America,North America,15.199998999999998,-86.241905
+Iran,105,4.813,Southern Asia,Asia,32.427908,53.68804599999999
+Zambia,106,4.795,Eastern Africa,Africa,-13.133897,27.849332
+Nepal,107,4.793,Southern Asia,Asia,28.394857,84.12400799999998
+Palestinian Territories,108,4.754,Western Asia,Asia,31.952162,35.233154
+Albania,109,4.655,Southern Europe,Europe,41.153332,20.168331
+Bangladesh,110,4.643,Southern Asia,Asia,23.684994,90.356331
+Sierra Leone,111,4.635,Western Africa,Africa,8.460555000000001,-11.779889
+Iraq,112,4.575,Western Asia,Asia,33.223191,43.679291
+Namibia,113,4.574,Southern Africa,Africa,-22.95764,18.49041
+Cameroon,114,4.513,Middle Africa,Africa,7.369722,12.354722
+Ethiopia,115,4.508,Eastern Africa,Africa,9.145,40.489673
+South Africa,116,4.459,Southern Africa,Africa,-30.559482,22.937506
+Sri Lanka,117,4.415,Southern Asia,Asia,7.873054,80.77179699999998
+India,118,4.404,Southern Asia,Asia,20.593684,78.96288
+Myanmar,119,4.395,South-Eastern Asia,Asia,21.913965,95.956223
+Egypt,120,4.362,Northern Africa,Africa,26.820553000000004,30.802498
+Armenia,121,4.36,Western Asia,Asia,40.069099,45.038189
+Kenya,122,4.356,Eastern Africa,Africa,-0.023559,37.906193
+Ukraine,123,4.324,Eastern Europe,Europe,48.379433,31.16558
+Ghana,124,4.276,Western Africa,Africa,7.9465270000000015,-1.0231940000000002
+Congo (Kinshasa),125,4.272,Middle Africa,Africa,-4.0383330000000015,21.758664000000003
+Georgia,126,4.252,Western Asia,Asia,42.315407,43.356892
+Congo (Brazzaville),127,4.236000000000001,Middle Africa,Africa,-0.228021,15.827659
+Senegal,128,4.218999999999999,Western Africa,Africa,14.497401000000002,-14.452362
+Bulgaria,129,4.217,Eastern Europe,Europe,42.733883,25.48583
+Mauritania,130,4.2010000000000005,Western Africa,Africa,21.00789,-10.940835
+Zimbabwe,131,4.1930000000000005,Eastern Africa,Africa,-19.015438,29.154857
+Malawi,132,4.156000000000001,Eastern Africa,Africa,-13.254307999999998,34.301525
+Sudan,133,4.138999999999999,Northern Africa,Africa,12.862807,30.217636
+Gabon,134,4.121,Middle Africa,Africa,-0.803689,11.609444
+Mali,135,4.073,Western Africa,Africa,17.570692,-3.996166000000001
+Haiti,136,4.0280000000000005,Caribbean,North America,18.971187,-72.28521500000002
+Botswana,137,3.9739999999999998,Southern Africa,Africa,-22.328474,24.684866
+Comoros,138,3.9560000000000004,Eastern Africa,Africa,-11.875001,43.872219
+Ivory Coast,139,3.9160000000000004,Western Africa,Africa,7.539989,-5.54708
+Cambodia,140,3.907,South-Eastern Asia,Asia,12.565679,104.990963
+Angola,141,3.866,Middle Africa,Africa,-11.202692,17.873887
+Niger,142,3.8560000000000003,Western Africa,Africa,17.607789,8.081666
+Chad,144,3.763,Middle Africa,Africa,15.454166,18.732207
+Burkina Faso,145,3.739,Western Africa,Africa,12.238333,-1.561593
+Uganda,145,3.739,Eastern Africa,Africa,1.373333,32.290275
+Yemen,147,3.7239999999999998,Western Asia,Asia,15.552727,48.516388
+Madagascar,148,3.695,Eastern Africa,Africa,-18.766947,46.869107
+Tanzania,149,3.6660000000000004,Eastern Africa,Africa,-6.369028,34.888822
+Liberia,150,3.622,Western Africa,Africa,6.4280550000000005,-9.429499
+Guinea,151,3.6069999999999998,Western Africa,Africa,9.945587,-9.696645
+Rwanda,152,3.515,Eastern Africa,Africa,-1.940278,29.873888
+Benin,153,3.484,Western Africa,Africa,9.30769,2.315834
+Afghanistan,154,3.36,Southern Asia,Asia,33.93911,67.709953
+Togo,155,3.303,Western Africa,Africa,8.619543,0.824782
+Syria,156,3.069,Western Asia,Asia,34.802075,38.99681500000001
+Burundi,157,2.905,Eastern Africa,Africa,-3.373056,29.918886
