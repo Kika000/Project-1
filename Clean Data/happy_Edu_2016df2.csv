@@ -1,0 +1,142 @@
+,Country,Happiness Index 2016,Education Index 2016
+0,Finland,7.41,0.905
+1,Norway,7.5,0.915
+2,Denmark,7.53,0.92
+3,Iceland,7.5,0.912
+4,Switzerland,7.51,0.897
+5,Netherlands,7.34,0.905
+6,Canada,7.4,0.894
+7,New Zealand,7.33,0.917
+8,Sweden,7.29,0.904
+9,Australia,7.31,0.929
+10,Israel,7.27,0.8740000000000001
+11,Austria,7.12,0.852
+12,Costa Rica,7.09,0.715
+13,Ireland,6.91,0.9179999999999999
+14,Germany,6.99,0.94
+15,Belgium,6.93,0.893
+16,Luxembourg,6.87,0.792
+17,United States,7.1,0.903
+18,United Kingdom,6.72,0.914
+19,United Arab Emirates,6.57,0.738
+20,Czech Republic,6.6,0.893
+21,Malta,6.49,0.818
+22,France,6.48,0.84
+23,Mexico,6.78,0.6779999999999999
+24,Chile,6.7,0.8
+25,Panama,6.7,0.687
+26,Brazil,6.95,0.6859999999999999
+27,Argentina,6.65,0.8140000000000001
+28,Guatemala,6.32,0.514
+29,Uruguay,6.54,0.733
+30,Qatar,6.38,0.698
+31,Saudi Arabia,6.38,0.787
+32,Singapore,6.74,0.83
+33,Malaysia,6.0,0.7190000000000001
+34,Spain,6.36,0.8240000000000001
+35,Colombia,6.48,0.6759999999999999
+36,Slovakia,6.08,0.831
+37,El Salvador,6.07,0.58
+38,Nicaragua,5.99,0.5579999999999999
+39,Poland,5.84,0.862
+40,Bahrain,6.22,0.758
+41,Uzbekistan,5.99,0.708
+42,Kuwait,6.24,0.618
+43,Thailand,6.47,0.65
+44,Italy,5.98,0.7909999999999999
+45,Ecuador,5.98,0.695
+46,Lithuania,5.81,0.879
+47,Slovenia,5.77,0.887
+48,Romania,5.53,0.762
+49,Latvia,5.56,0.866
+50,Japan,5.92,0.846
+51,Mauritius,5.65,0.7290000000000001
+52,Jamaica,5.51,0.69
+53,South Korea,5.84,0.862
+54,Russia,5.86,0.8320000000000001
+55,Kazakhstan,5.92,0.809
+56,Cyprus,5.55,0.8079999999999999
+57,Bolivia,5.82,0.6829999999999999
+58,Estonia,5.52,0.868
+59,Paraguay,5.54,0.631
+60,Peru,5.74,0.688
+62,Moldova,5.9,0.71
+63,Turkmenistan,5.66,0.629
+64,Hungary,5.14,0.815
+65,Libya,5.62,0.616
+66,Philippines,5.28,0.6609999999999999
+67,Honduras,4.87,0.502
+68,Belarus,5.8,0.838
+69,Turkey,5.39,0.6890000000000001
+70,Pakistan,5.13,0.41100000000000003
+71,Portugal,5.12,0.759
+72,Serbia,5.18,0.778
+73,Greece,5.03,0.838
+74,Tajikistan,5.0,0.66
+75,Montenegro,5.16,0.79
+76,Croatia,5.49,0.7909999999999999
+77,Dominican Republic,5.16,0.643
+78,Algeria,6.36,0.6629999999999999
+79,Morocco,5.15,0.525
+80,China,5.24,0.644
+81,Azerbaijan,5.29,0.7090000000000001
+82,Lebanon,5.13,0.634
+83,Macedonia,5.12,0.691
+84,Jordan,5.3,0.711
+85,Nigeria,4.88,0.483
+86,Kyrgyzstan,5.18,0.735
+87,Bosnia and Herzegovina,5.16,0.718
+88,Mongolia,4.91,0.7659999999999999
+89,Vietnam,5.06,0.621
+90,Indonesia,5.31,0.622
+91,Bhutan,5.2,0.446
+92,Cameroon,4.51,0.547
+93,Bulgaria,4.22,0.805
+94,Nepal,4.79,0.502
+95,Venezuela,6.08,0.733
+96,Gabon,4.12,0.621
+97,Palestinian Territories,4.75,0.66
+98,South Africa,4.46,0.708
+99,Iran,4.81,0.741
+101,Ghana,4.28,0.5579999999999999
+102,Senegal,4.22,0.361
+103,Tunisia,5.04,0.6559999999999999
+104,Albania,4.66,0.742
+105,Sierra Leone,4.64,0.382
+106,Congo (Brazzaville),4.24,0.486
+107,Bangladesh,4.64,0.49
+108,Sri Lanka,4.42,0.7490000000000001
+109,Iraq,4.58,0.502
+110,Mali,4.07,0.287
+111,Cambodia,3.91,0.483
+112,Burkina Faso,3.74,0.285
+113,Egypt,4.36,0.604
+114,Kenya,4.36,0.5429999999999999
+115,Zambia,4.8,0.58
+116,Mauritania,4.2,0.385
+117,Ethiopia,4.51,0.325
+118,Georgia,4.25,0.845
+119,Armenia,4.36,0.7490000000000001
+120,Myanmar,4.39,0.44
+121,Chad,3.76,0.298
+123,India,4.4,0.556
+124,Niger,3.86,0.212
+125,Uganda,3.74,0.504
+126,Benin,3.48,0.47100000000000003
+127,Sudan,4.14,0.326
+128,Ukraine,4.32,0.794
+129,Togo,3.3,0.506
+130,Guinea,3.61,0.33899999999999997
+131,Angola,3.87,0.48700000000000004
+132,Madagascar,3.7,0.498
+133,Zimbabwe,4.19,0.5579999999999999
+134,Afghanistan,3.36,0.41
+135,Botswana,3.97,0.659
+136,Malawi,4.16,0.45
+137,Haiti,4.03,0.428
+138,Liberia,3.62,0.43
+139,Syria,3.07,0.41200000000000003
+140,Rwanda,3.52,0.45
+141,Yemen,3.72,0.349
+142,Tanzania,3.67,0.441
+143,Burundi,2.9,0.424
