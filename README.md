@@ -1,6 +1,8 @@
 Project 1: Happiness Analysis
+
 In this project, we would like to find the relationship between happiness score which was drawed from a poll and some accounted factors to have a good prediction for happiness index in the world.
 The impacts are counted in this analysis including:
+
   GDP/PPP
   Population Total/Population Density
   Median Age
