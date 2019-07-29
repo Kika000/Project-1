@@ -16,7 +16,6 @@ After the analysis, we discover the relationship between these factors as follow
 
 ![](ChartsTables/GDPPPPFits.png)
 
-
 ![](ChartsTables/PopFits.png)
 
 ![](ChartsTables/MedAgeFits.png)
@@ -25,6 +24,6 @@ After the analysis, we discover the relationship between these factors as follow
 
 ![](ChartsTables/Education_vs_Happines.png)
 
-![](ChartsTables?regression_analysis.png)
+![](ChartsTables/regression_analysis.png)
 
 
