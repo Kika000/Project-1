@@ -26,9 +26,3 @@ The impacts are counted in this analysis including:
     Factors with no correlation to country happiness index:
     
       Population.
-
-
-  ![](ChartsTables/GDPPPPFits.png)![](ChartsTables/PopFits.png)![](ChartsTables/MedAgeFits.png)
-  ![](ChartsTables/Alch_vs_Happines.png)
-  ![](ChartsTables/Education_vs_Happines.png)
-  ![](ChartsTables/regression_analysis.png)
