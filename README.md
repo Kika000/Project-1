@@ -13,6 +13,13 @@ The impacts are counted in this analysis including:
   Disaster Risk
   Amount of Sleep
 After the analysis, we discover the relationship between these factors as follow:
+    Factors with strong correlation to country happiness score:
+      Median Age, Education Level, Access to Internet.
+    Factors with some correlation to country happiness index:
+      GDP/PPP, Alcohol Consumption, Disaster Risk rate, Average Sleep
+    Factors with no correlation to country happiness index:
+      Population.
+
 
 ![](ChartsTables/GDPPPPFits.png)
 ![](ChartsTables/PopFits.png)
